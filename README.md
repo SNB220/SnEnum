@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="SnEnum" src="https://github.com/user-attachments/assets/d3fcdaf3-e75c-4221-b3f4-f5b3a1e214a5" />
 # SnEnum - Advanced Linux Enumeration & Privilege Escalation Tool
 
 ## 📋 Overview
